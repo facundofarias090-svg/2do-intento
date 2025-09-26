@@ -1,3 +1,9 @@
+/* Estilo para los links y textos destacados de ficha técnica y AQUI */
+.link-aqui {
+     color: #ff6600 !important;
+     font-weight: bold;
+     text-decoration: underline;
+}
 .navbar-brand{
      color: bisque;
 }
@@ -12,7 +18,7 @@ text-align: center;
 font-style: oblique;
 }
 
-.estafa{
+.texto1{
      color: rgb(221, 180, 131);
 text-align: justify;
 font-family: Georgia, 'Times New Roman', Times, serif;
@@ -62,4 +68,27 @@ object-fit: cover;
 
 .text-body-secondary{
      color: cornsilk;
+}
+
+.imgprincipal{
+     align-items: center;
+     width: 10 0%;
+     height: 700px;
+     object-fit: cover;
+     margin-bottom: 20px;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+
+.linkaqui{
+     color: #d1c6c0 
+}
+
+.card-text1{
+     color: rgb(191, 239, 197);
+}
+
+.card-title1{
+     color: rgba(250, 128, 114, 0.619);
 }
