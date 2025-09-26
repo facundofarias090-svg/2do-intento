@@ -1,4 +1,4 @@
-/* Estilo para los links y textos destacados de ficha técnica y AQUI */
+
 .link-aqui {
      color: #ff6600 !important;
      font-weight: bold;
@@ -16,6 +16,7 @@
      color: bisque;
 text-align: center;
 font-style: oblique;
+margin-top: 2.5rem;
 }
 
 .texto1{
@@ -27,6 +28,11 @@ font-size: 18px;
 
 .boddy{
      background-color: #4f5b65
+}
+
+
+.bodiy{
+background-color: rgb(88, 108, 109);
 }
 
 img{
@@ -91,4 +97,11 @@ object-fit: cover;
 
 .card-title1{
      color: rgba(250, 128, 114, 0.619);
+}
+
+.visitanos{
+     color: rgba(226, 200, 105, 0.655);
+     font-size: 20px;
+     text-align: justify;
+     font-family: 'Times New Roman', Times, serif;     
 }
